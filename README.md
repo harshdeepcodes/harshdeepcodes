@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **contact@harshdeepsingh.in**
 
-- ⚡ Fun fact **Figure it yourself :)**
+- ⚡ Fun fact **Figure it yourself till i am figuring it :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
