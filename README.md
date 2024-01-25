@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshdeep Singh</h1>
 <h3 align="center">I love penguins 🐧</h3>
 
-- 🔭 I’m currently working on **Building Github Profile**
+- 🔭 I’m currently working on **LinuxWale**
 
 - 🌱 I’m currently learning **Life**
 
